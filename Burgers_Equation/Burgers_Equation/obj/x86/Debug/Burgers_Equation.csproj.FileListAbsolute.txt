@@ -1,0 +1,8 @@
+/home/mohamad/Dropbox/C#/Diff_Equations/Burgers_Equation/Burgers_Equation/bin/Debug/Burgers_Equation.exe
+/home/mohamad/Dropbox/C#/Diff_Equations/Burgers_Equation/Burgers_Equation/bin/Debug/Burgers_Equation.pdb
+/home/mohamad/Dropbox/C#/Diff_Equations/Burgers_Equation/Burgers_Equation/bin/Debug/MyLibrary.dll
+/home/mohamad/Dropbox/C#/Diff_Equations/Burgers_Equation/Burgers_Equation/obj/x86/Debug/Burgers_Equation.csprojAssemblyReference.cache
+/home/mohamad/Dropbox/C#/Diff_Equations/Burgers_Equation/Burgers_Equation/obj/x86/Debug/Burgers_Equation.csproj.CoreCompileInputs.cache
+/home/mohamad/Dropbox/C#/Diff_Equations/Burgers_Equation/Burgers_Equation/obj/x86/Debug/Burgers_Equation.csproj.CopyComplete
+/home/mohamad/Dropbox/C#/Diff_Equations/Burgers_Equation/Burgers_Equation/obj/x86/Debug/Burgers_Equation.exe
+/home/mohamad/Dropbox/C#/Diff_Equations/Burgers_Equation/Burgers_Equation/obj/x86/Debug/Burgers_Equation.pdb

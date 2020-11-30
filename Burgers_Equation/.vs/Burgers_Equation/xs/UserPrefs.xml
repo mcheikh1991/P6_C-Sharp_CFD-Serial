@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{84DC1104-12B3-41A6-83FA-B374DD5504B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Burgers_Equation/Properties/Domain_Functions.cs">
+    <Files>
+      <File FileName="Burgers_Equation/Program.cs" Line="16" Column="26" />
+      <File FileName="Burgers_Equation/Properties/Domain_Functions.cs" Line="153" Column="23" />
+      <File FileName="Burgers_Equation/Properties/BurgersEquation.cs" Line="69" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Burgers_Equation" expanded="True">
+            <Node name="Burgers_Equation" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="Domain_Functions.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Burgers__Equation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
